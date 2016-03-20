@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/Lost Kingdom--20 March.unity
+  isLoaded: 1
+  isActive: 1
